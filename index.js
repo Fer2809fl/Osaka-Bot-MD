@@ -8,7 +8,6 @@ import Pino from 'pino'
 import qrcode from 'qrcode-terminal'
 import readline from 'readline'
 import { handler } from './lib/handler.js'
-import { onGroupUpdate } from './plugins/eventos/group-events.js'
 import fs from 'fs'
 import path from 'path'
 
@@ -253,9 +252,6 @@ async function start() {
 
   sock.ev.on('creds.update', saveCreds)
   sock.ev.on('messages.upsert', async (m) => await handler(sock, m))
-  sock.ev.on('group-participants.update', async (update) => {
-    await onGroupUpdate(sock, update)
-  })
 }
 
 start().catch(console.error)
