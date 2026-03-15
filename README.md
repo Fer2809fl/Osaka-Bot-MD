@@ -1,27 +1,29 @@
-# Osaka-Bot-MD 🚀🤖
+# Osaka - Bot - MD
 
-**Bot de WhatsApp Multi-Device** rápido y ligero basado en Baileys 💜
+🐉🎮 Bienvenidos a mi repositorio oficial de Osaka - Bot - MD, espero te interese y te guste el bot, si es así te agradecería que dejases una estrella, recuerda que es un bot en constante actualización así que recuerden visitar mi repo más seguido para que no se pierdan de nada 🗣🔥
 
-✨ **Creador original** → Fer2809fl  
-https://github.com/Fer2809fl/Osaka-Bot-MD
+---
 
-🔥 **Colaborador / Creador secundario** → Abraham
+## 🪾 Descripción
 
-### Lo que mola 🔥
-- Multi-device sin QR eterno 📱
-- Plugins fáciles de agregar ➕
-- Stickers, descargas (YT, IG, TT), juegos, anti-delete 🛡️
-- Menús bonitos con buttons o case 🎨
-- Ligero y customizable al 100% ⚡
+Osaka es un bot de WhatsApp multifuncional basado en `baileys`. Este bot ofrece una variedad de características para mejorar tu experiencia en WhatsApp.
 
-> Colores que puedes usar en GitHub:  
-> ` #FF69B4 ` → <span style="color:#FF69B4">hot pink</span> (swatch rosa 🔥)  
-> ` #00FF9F ` → verde neón vibrante  
-> ` rgb(106, 90, 205) ` → slate blue místico  
-> ` #FFD700 ` → oro shiny ✨
+---
 
-¡Forkea, modifica y hazlo tuyo! 🌟  
-https://github.com/Fer2809fl/Osaka-Bot-MD/fork
+## ☃️ Características
 
-Gracias Fer por crearlo desde cero 🙌  
-Gracias a todos los que ayudan a crecerlo 💪
+* Respuestas automáticas
+* Gestión de grupos
+* Juegos interactivos
+* Integración con APIs externas
+
+---
+
+## 🌾 Informaciones Importantes
+
+**⛄ Información** — Oficial
+
+Si editas el bot, debes mantener los créditos principales y no borrarlos bajo ninguna circunstancia.
+
+- CREADOR DEL CODIGO -> Fer
+- CREADOR SECUNDARIO O COLABORADOR -> Abraham
